@@ -1,6 +1,6 @@
 ## Eshaan Homepage
 
-| [Challenges](/cha) | [Test Prep Planning](/plan) | [Review Tickets](/rev) | [TPT Notes](/tpt) |
+| [Challenges](../cha) | [Test Prep Planning](../plan) | [Review Tickets](../rev) | [TPT Notes](/tpt) |
 
 # TT 0 Notes
 * data structures organize data
